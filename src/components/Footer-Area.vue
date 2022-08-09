@@ -26,9 +26,9 @@
                 </div>
                 <div class="d-flex justify-content-center mt-5 col-lg-4 col-md-6 col-sm-12">
                     <div>
-                        <h6>Nazia Afrin Nowshin</h6>
-                        <h6>Block G, Road-2, Banasree, Dhaka-1219</h6>
-                        <h6>Contact : 019xxxxxx</h6>
+                        <h6>Features</h6>
+                        <h6>Vue Components</h6>
+                        <h6>Bootstraps for UI</h6>
                     </div>
                 </div>
             </div>
