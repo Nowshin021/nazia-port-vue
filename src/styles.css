@@ -1,0 +1,96 @@
+.nav-link a{
+    transition:transform 0.5s ease-in-out;
+}
+
+.nav-link a:hover{
+    color: #1e5566;
+    transition: .8s ease;
+
+}
+
+
+
+
+
+.card-title a{
+    text-decoration: none;
+}
+
+
+.card{
+    width: auto;
+    transition:transform 0.5s ease-in-out;
+ 
+}
+.card:hover{
+    
+    transform:scale(1.02);
+    
+}
+
+.card-img-overlay{
+    color: white;
+    opacity: 0;
+    transition: .8s ease;
+    background-color: rgb(10, 182, 250);
+}
+
+
+.card:hover .overlay {
+    opacity: 1;
+}
+.container-lg{
+    background-color: #7bd3ff;
+    height: 100%;
+}
+
+.hover-card{
+    transition:transform 0.5s ease-in-out;
+}
+
+.hover-card:hover{
+    background-color: #7bd3ff;
+    color: white;
+    transition: .8s ease;
+}
+
+.icons{
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+/*Hoover button styles*/
+.hover-button{
+    transition: all 0.8s;
+    cursor: pointer;
+    
+    
+  
+}
+
+
+.hover-button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.8s;
+  }
+  
+.hover-button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+  
+.hover-button:hover span {
+    padding-right: 25px;
+}
+  
+.hover-button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+

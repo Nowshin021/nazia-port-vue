@@ -1,26 +1,45 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+ 
+  <NavAreaVue/>
+  <HeaderArea/>
+  <AchivementsArea/>
+  <ProjectsArea/>
+  <ViewMore></ViewMore>
+  <SkillArea/>
+  <PublicationsArea/>
+  <ContactMe></ContactMe>
+  <FooterArea></FooterArea>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import NavAreaVue from './components/Nav-Area.vue'
+import HeaderArea from './components/Header-Area.vue'
+import AchivementsArea from './components/Achivements-Area.vue'
+import ProjectsArea from './components/Projects-Area.vue'
+import SkillArea from './components/Skill-Area.vue'
+import PublicationsArea from './components/Publications-Area.vue'
+import ContactMe from './components/Contact-Me.vue'
+import FooterArea from './components/Footer-Area.vue'
+import ViewMore from './components/View-More.vue'
+
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    NavAreaVue,
+    HeaderArea,
+    AchivementsArea,
+    ProjectsArea,
+    SkillArea,
+    PublicationsArea,
+    ContactMe,
+    FooterArea,
+    ViewMore
+}
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+@import "./styles.css";
 </style>
