@@ -16,7 +16,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">DATA 2022 – 11th International Conference on Data Science, Technology and Applications.</h5>
                                 <p class="card-text"> Paper Title: Development of a Text Classification Framework using Transformer-based Embeddings</p>
-                                <a href="#" class="text-start text-info">Go somewhere</a>
+                               
                             </div>
                         </div>
                 </div>
@@ -26,7 +26,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">MIET –  Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (LNICST).</h5>
                                 <p class="card-text">   Paper Title: Transformer-based Text Clustering for Newspaper Articles</p>
-                                <a href="#" class="text-start text-info">Go somewhere</a>
+                                
                             </div>
                         </div>
                 </div>

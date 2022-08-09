@@ -17,11 +17,11 @@
 
                 <div class="col-lg-6 col-md-12 col-sm-12 mt-5">
                     <div class="mb-3">
-                    <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                    <label for="exampleFormControlInput1" class="form-label text-white">Email address</label>
                     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
                     </div>
                     <div class="mb-3">
-                    <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+                    <label for="exampleFormControlTextarea1" class="form-label text-white">Write something</label>
                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                     <div class="mt-2">
                             <button class="btn btn-outline-light">Send Message</button>

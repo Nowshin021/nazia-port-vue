@@ -15,7 +15,7 @@
                         <img src="../assets/python.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title text-info text-center mb-2">Gold badge in Python</h5>
-                            <p class="card-title text-center"><a href="#" class="text-info text-center">view profile on Hackerrank</a></p>
+                            <p class="card-title text-center"><a href="https://www.hackerrank.com/nowshinwork3247" class="text-info text-center">view profile on Hackerrank</a></p>
                         </div>
                     </div>
                 </div>
@@ -23,8 +23,8 @@
                     <div class="card border-info" style="width: 22rem;">
                         <img src="../assets/ps.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                             <h5 class="card-title text-info text-center mb-2">Bronze badge in Problem Solving</h5>
-                            <p class="card-title text-center"><a href="#" class="text-info ">view profile on Hackerrank</a></p>
+                             <h5 class="card-title text-info text-center mb-2">Bronze badge in CP</h5>
+                            <p class="card-title text-center"><a href="https://www.hackerrank.com/nowshinwork3247" class="text-info ">view profile on Hackerrank</a></p>
                         </div>
                     </div>
                 </div>

@@ -21,7 +21,7 @@
                                 <p class="card-text text-start">A begginer friendly React food recipie app with Food Api. Users can view search food recipie and view the recipie in youtube.</p>
                                 <div class="d-flex justify-content-between align-items-center mt-3 mb-3">
                                  <div>
-                                   <button class="btn btn-outline-light  btn-small">View code</button>
+                                  <a href="https://github.com/Nowshin021/demo-app"><button class="btn btn-outline-light  btn-small">View codes</button></a>
                                  </div>
                                 </div>
                                 
@@ -41,7 +41,7 @@
                                 <p class="card-text text-start">A begginer friendly Blog App with user CRUD oparations build with django and beautiful bootstrap template</p>
                                 <div class="d-flex justify-content-between align-items-center mt-3 mb-3">
                                  <div>
-                                   <button class="btn btn-outline-light  btn-small">View code</button>
+                                   <a href="https://github.com/Nowshin021/django-blog"><button class="btn btn-outline-light  btn-small">View codes</button></a>
                                  </div>
                                 </div>
                                 
@@ -61,8 +61,8 @@
                                 <p class="card-text text-start">Fully Resposive single page educational website using bootstrap 5.</p>
                                 <div class="d-flex justify-content-between align-items-center mt-3 mb-3">
                                  
-                                   <button class="btn btn-outline-light  btn-small">View code</button>
-                                   <button class="btn btn-outline-light  btn-small">Watch live</button>
+                                   <a href="https://github.com/Nowshin021/education-pro"><button class="btn btn-outline-light  btn-small">View codes</button></a>
+                                   <a href="https://62e2ef6b5878620927dcdf28--spiffy-bubblegum-1ce21e.netlify.app/"><button class="btn btn-outline-light  btn-small">Watch Live</button></a>
                                  
                                 </div>
                                 
